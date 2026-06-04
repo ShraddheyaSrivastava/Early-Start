@@ -1,8 +1,7 @@
 # Early-Start
 Started this repository two months before joining BTech (Hons) CSE A.I and Analytics. 
-<n>
+<br>
 It contains my practice in Python, C++, DSA etc.
-</n>
-<n>
+<br>
 Author-> Shraddheya Srivastava
-</n>
+
